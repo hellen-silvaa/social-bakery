@@ -1,42 +1,48 @@
-# AdminHub Dashboard
+# Projeto de Dashboard Ilustrativo: Atividades Extensionistas
 
-Welcome to the AdminHub Dashboard repository!
+## Proposta de Tema / Trabalho Final
 
-AdminHub Dashboard is a sleek and modern dashboard design created using HTML, CSS, and JavaScript. This repository contains the source code for the AdminHub Dashboard.
+O objetivo deste projeto é criar um dashboard ilustrativo para promover e monitorar o impacto de ações de desenvolvimento econômico local e apoio a empreendedores de padarias em áreas de vulnerabilidade social. A proposta está alinhada com a missão de oferecer ferramentas eficazes de gestão e suporte para maximizar os benefícios sociais e econômicos. Abaixo estão os principais objetivos e funcionalidades do projeto:
 
-## Features
+### Objetivos do Projeto
 
-- Responsive layout for desktop and mobile devices
-- Elegant design with intuitive navigation
-- Charts and graphs for data visualization
-- Customizable and easy to integrate into web applications
+1. **Desenvolvimento Econômico Local e Redução das Desigualdades**
+   - Oferecer ferramentas de gestão e apoio a empreendedores de padarias em áreas de vulnerabilidade social para fomentar o desenvolvimento econômico local e reduzir desigualdades.
 
-## Preview
+2. **Monitoramento e Avaliação do Impacto**
+   - Monitorar e avaliar o impacto social e econômico do sistema nas comunidades atendidas, ajustando o projeto conforme necessário para maximizar os benefícios.
 
-![AdminHub Dashboard Preview](dashboard-preview.png)
+3. **Cadastro de Famílias Carentes**
+   - Cadastrar as famílias carentes beneficiadas pela padaria para garantir um registro preciso e atualizado dos destinatários das doações.
 
-## Getting Started
+4. **Controle dos Recursos Doados**
+   - Estabelecer um controle rigoroso dos recursos doados, incluindo a gestão, monitoramento e relatórios sobre a distribuição de alimentos e outros recursos para garantir a eficiência e a transparência.
 
-To get started with AdminHub Dashboard, follow these steps:
+5. **Suporte Contínuo às Famílias Beneficiadas**
+   - Garantir que todas as famílias carentes beneficiadas pelo projeto recebam suporte adequado e contínuo por meio de um cadastro eficaz.
 
-1. Clone this repository: `git clone https://github.com/fajarnurwahid/adminhub.git`
-2. Open the `index.html` file in your web browser to view the dashboard.
+### Funcionalidades do Dashboard
 
-## Technologies Used
+- **Visualização de Dados em Tempo Real:** Gráficos e tabelas ilustrativos mostrando o status atual das doações e o impacto nas comunidades.
+- **Relatórios Detalhados:** Geração de relatórios sobre a distribuição de recursos e a eficiência do sistema.
+- **Cadastro e Gerenciamento de Famílias:** Ferramenta para registrar e atualizar informações das famílias carentes beneficiadas.
+- **Análise de Impacto:** Módulo para avaliar o impacto social e econômico das ações realizadas.
 
-- HTML
-- CSS
-- JavaScript
+### Tecnologias Utilizadas
 
-## Contributing
+- **Frontend:** [Tecnologias de Frontend que serão usadas, como React, Angular, etc.]
+- **Backend:** [Tecnologias de Backend que serão usadas, como Node.js, Django, etc.]
+- **Banco de Dados:** [Tecnologias de Banco de Dados que serão usadas, como MySQL, MongoDB, etc.]
+- **Ferramentas de Visualização:** [Ferramentas de Visualização de Dados que serão usadas, como Tableau, Power BI, etc.]
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+### Como Contribuir
 
-## License
+Se você deseja contribuir para o projeto ou tem sugestões, fique à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é muito bem-vinda!
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Contato
 
-## Acknowledgements
+Para mais informações ou perguntas, entre em contato com [Seu Nome] em [Seu E-mail].
 
-Special thanks to [Fajarnurwahid](https://github.com/fajarnurwahid) for creating and sharing the AdminHub Dashboard.
+---
 
+Obrigado por visitar o projeto e pelo seu interesse em apoiar o desenvolvimento econômico e social através de iniciativas extensionistas!
